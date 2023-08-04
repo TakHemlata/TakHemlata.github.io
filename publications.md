@@ -16,10 +16,10 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   [Slides](https://drive.google.com/file/d/17qnfPJ7ESdXza0dYzG6h8Cbv3RmYyLnI/view?usp=sharing){: .btn}
 
 **Publications**
-  
-- **t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators**
-   Tomi H. Kinnunen, Kong Aik Lee, **Hemlata Tak**, Nicholas Evans, Andreas Nautsch
-  *Under review in IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2023*
+
+- **t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators**  
+  Tomi H. Kinnunen, Kong Aik Lee, **Hemlata Tak**, Nicholas Evans, Andreas Nautsch  
+  *Under review in IEEE transactions on pattern analysis and machine intelligence (TPAMI) 2023*
 
 - **Malafide: a novel adversarial convolutive noise attack against deepfake and spoofing detection systems**  
   Michele Panariello, Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
@@ -57,12 +57,12 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   [Paper](https://www.isca-speech.org/archive/odyssey_2022/tak22_odyssey.html){: .btn}
   [Code](https://github.com/TakHemlata/SSL_Anti-spoofing){: .btn}
 
-- **Baseline systems for the first spoofing-aware speaker verification challenge: score and embedding fusion**
+- **Baseline systems for the first spoofing-aware speaker verification challenge: score and embedding fusion**  
   Hye-jin Shim, **Hemlata Tak**, Xuechen Liu, Hee-Soo Heo, Jee-weon Jung, Joon Son Chung, Soo-Whan Chung, Ha-Jin Yu, Bong-Jin Lee,
-  Massimiliano Todisco, Héctor Delgado, Kong Aik Lee, Md Sahidullah, Tomi Kinnunen, Nicholas Evans
-  *The Speaker and Language Recognition Workshop (Odyssey 2022)*  
+  Massimiliano Todisco, Héctor Delgado, Kong Aik Lee, Md Sahidullah, Tomi Kinnunen, Nicholas Evans  
+  *The Speaker and Language Recognition Workshop (Odyssey 2022)*
   [Paper](https://www.isca-speech.org/archive/odyssey_2022/shim22_odyssey.html){: .btn}
-
+  
 - **Rawboost: A raw data boosting and augmentation method applied to automatic speaker verification anti-spoofing**  
   **Hemlata Tak**, Madhu Kamble, Jose Patino, Massimiliano Todisco, Nicholas Evans  
   *IEEE ICASSP 2022*  
