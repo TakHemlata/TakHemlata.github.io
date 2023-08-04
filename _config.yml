@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Hi, I'm Hemlata
+title: Hemlata
 
 # Your name to show in the footer
 author: Hemlata Tak
@@ -20,11 +20,10 @@ author: Hemlata Tak
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "Home"
+  Publication:
+   
+  CV: 
 
 ################
 # --- Logo --- #
