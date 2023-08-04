@@ -3,17 +3,20 @@ layout: page
 title: Publications
 ---
 
-Checkout my <a href="https://scholar.google.co.in/citations?hl=en&user=u2DMQxsAAAAJ" target="_blank">Google Scholar profile</a>.
+Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
 **2023**
+
   **PhD Thesis**
+  
 - **End-to-End Modeling for Speech Spoofing and Deepfake Detection**  
   **Hemlata Tak**   
   [Thesis](https://www.eurecom.fr/publication/7273){: .btn}
   [Slides](https://drive.google.com/file/d/17qnfPJ7ESdXza0dYzG6h8Cbv3RmYyLnI/view?usp=sharing){: .btn}
 
   **Publications**
+  
   **t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators**
   Tomi H. Kinnunen, Kong Aik Lee, **Hemlata Tak**, Nicholas Evans, Andreas Nautsch
   *Under revesion in IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2023*
