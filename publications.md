@@ -47,7 +47,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   [Code](https://github.com/eurecom-asp/sasv-joint-optimisation){: .btn}
 
 - **SASV 2022: The First Spoofing-Aware Speaker Verification Challenge**  
-  Jee-weon Jung, **Hemlata Tak**, Hye-jin Shim, Hee-Soo Heo, Bong-Jin Lee, Soo-Whan Chung, Ha-Jin Yu, Nicholas Evans, Tomi Kinnunen  
+  Jee-weon Jung, **Hemlata Tak**, Hye-jin Shim, Hee-Soo Heo, Bong-Jin Lee, Soo-Whan Chung, Ha-Jin Yu, Nicholas Evans, Tomi Kinnunen
   *INTERSPEECH 2022*  
   [Paper](https://www.isca-speech.org/archive/interspeech_2022/jung22c_interspeech.html){: .btn}
   [Code](https://sasv-challenge.github.io){: .btn}
