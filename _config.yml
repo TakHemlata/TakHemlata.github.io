@@ -20,7 +20,7 @@ author: Hemlata Tak
 ###############################################
 
 navbar-links:
-  About Me: "Home"
+  Home: 
   Publication:
    
   CV: "/assets/Hemlata_Tak_Resume.pdf"
@@ -50,10 +50,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "hemlatatak22@gmail.com"
-  github: github.com/TakHemlata
-  twitter: twitter.com/TakHemlata
-  linkedIn: www.linkedin.com/in/hemlata-tak-4b5918a0/
-  google-scholar: scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl=en
+  github: "https://github.com/TakHemlata"
+  twitter: "https://twitter.com/TakHemlata"
+  linkedIn: "https://www.linkedin.com/in/hemlata-tak-4b5918a0/"
+  google-scholar: "https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl=en"
 
 
 # If you want your website to generate an RSS feed, provide a description
