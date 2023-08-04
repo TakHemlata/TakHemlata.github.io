@@ -2,11 +2,12 @@
   <h2>Portfolio</h2>
   <h3>Open Source Projects</h3>
   <ul>
-    <li><a href="https://github.com/eurecom-asp/rawnet2-antispoofing">Project 1</a></li>
-    <li><a href="https://github.com/eurecom-asp/RawGAT-ST-antispoofing">Project 2</a></li>
-    <li><a href="https://github.com/TakHemlata/RawBoost-antispoofing">Project 3</a></li>
-    <li><a href="https://github.com/TakHemlata/SSL_Anti-spoofing">Project 4</a></li>
-    <li><a href="https://github.com/eurecom-asp/sasv-joint-optimisation">Project 5</a></li>
+    <li><a href="https://github.com/eurecom-asp/rawnet2-antispoofing">Project 1</a>: End-to-end anti-spoofing with RawNet2.</li>
+    <li><a href="https://github.com/eurecom-asp/RawGAT-ST-antispoofing">Project 2</a>: End-to-end Spectro-Temporal Graph Attention Networks.</li>
+    <li><a href="https://github.com/TakHemlata/RawBoost-antispoofing">Project 3</a>: RawBoost data-augmentation technique for audio anti-spoofing.</li>
+    <li><a href="https://github.com/TakHemlata/SSL_Anti-spoofing">Project 4</a>: Audio spoofing and deepfake detection using self-supervised learning and data augmentation.</li>
+    <li><a href="https://github.com/eurecom-asp/sasv-joint-optimisation">Project 5</a>: Potential of Jointly-Optimised Solutions to
+Spoofing Attack Detection and Automatic Speaker Verification.</li>
     
   </ul>
   <p>During PhD, I actively contribute to various projects. Below are some of my notable open source projects:</p>
