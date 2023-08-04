@@ -8,18 +8,18 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 **2023**
 
-  **PhD Thesis**
+**PhD Thesis**
   
 - **End-to-End Modeling for Speech Spoofing and Deepfake Detection**  
   **Hemlata Tak**   
   [Thesis](https://www.eurecom.fr/publication/7273){: .btn}
   [Slides](https://drive.google.com/file/d/17qnfPJ7ESdXza0dYzG6h8Cbv3RmYyLnI/view?usp=sharing){: .btn}
 
-  **Publications**
+**Publications**
   
   **t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators**
   Tomi H. Kinnunen, Kong Aik Lee, **Hemlata Tak**, Nicholas Evans, Andreas Nautsch
-  *Under revesion in IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2023*
+  *Under review in IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2023*
 
 - **Malafide: a novel adversarial convolutive noise attack against deepfake and spoofing detection systems**  
   Michele Panariello, Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
