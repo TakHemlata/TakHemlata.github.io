@@ -61,7 +61,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 - **Baseline systems for the first spoofing-aware speaker verification challenge: score and embedding fusion**  
   Hye-jin Shim, **Hemlata Tak**, Xuechen Liu, Hee-Soo Heo, Jee-weon Jung, Joon Son Chung, Soo-Whan Chung, Ha-Jin Yu, Bong-Jin Lee,
   Massimiliano Todisco, Héctor Delgado, Kong Aik Lee, Md Sahidullah, Tomi Kinnunen, Nicholas Evans  
-  *The Speaker and Language Recognition Workshop (Odyssey 2022)* 
+  *The Speaker and Language Recognition Workshop (Odyssey 2022)*  
   [Paper](https://www.isca-speech.org/archive/odyssey_2022/shim22_odyssey.html){: .btn}
   
 - **Rawboost: A raw data boosting and augmentation method applied to automatic speaker verification anti-spoofing**  
