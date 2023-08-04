@@ -28,6 +28,11 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   [Code](github.com/eurecom-asp/malafide){: .btn}
 
 - **Towards single integrated spoofing-aware speaker verification embeddings**  
+  Sung Hwan Mun, Hye-jin Shim, **Hemlata Tak**, Xin Wang, Xuechen Liu, Md Sahidullah, Myeonghun Jeong, Min Hyun Han, Massimiliano Todisco,Kong Aik Lee, Junichi Yamagishi, Nicholas Evans, Tomi Kinnunen, Nam Soo Kim, Jee-weon Jung  
+  *InterSpeech 2023*  
+  [Paper](https://arxiv.org/abs/2305.19051){: .btn}
+
+- **Towards single integrated spoofing-aware speaker verification embeddings**  
   Sung Hwan Mun, Hye-jin Shim, **Hemlata Tak**, Xin Wang, Xuechen Liu, Md Sahidullah, Myeonghun Jeong, Min Hyun Han, Massimiliano Todisco,Kong Aik Lee, Junichi Yamagishi, Nicholas Evans, Tomi Kinnunen, Nam Soo Kim, Jee-weon Jung
   *InterSpeech 2023* 
   [Paper](https://arxiv.org/abs/2305.19051){: .btn}
