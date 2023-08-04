@@ -23,23 +23,18 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 - **Malafide: a novel adversarial convolutive noise attack against deepfake and spoofing detection systems**  
   Michele Panariello, Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
-  *InterSpeech 2023*  
+  *Interspeech 2023*  
   [Paper](https://arxiv.org/abs/2306.07655){: .btn}
   [Code](github.com/eurecom-asp/malafide){: .btn}
 
 - **Towards single integrated spoofing-aware speaker verification embeddings**  
   Sung Hwan Mun, Hye-jin Shim, **Hemlata Tak**, Xin Wang, Xuechen Liu, Md Sahidullah, Myeonghun Jeong, Min Hyun Han, Massimiliano Todisco,Kong Aik Lee, Junichi Yamagishi, Nicholas Evans, Tomi Kinnunen, Nam Soo Kim, Jee-weon Jung  
-  *InterSpeech 2023*  
-  [Paper](https://arxiv.org/abs/2305.19051){: .btn}
-
-- **Towards single integrated spoofing-aware speaker verification embeddings**  
-  Sung Hwan Mun, Hye-jin Shim, **Hemlata Tak**, Xin Wang, Xuechen Liu, Md Sahidullah, Myeonghun Jeong, Min Hyun Han, Massimiliano Todisco,Kong Aik Lee, Junichi Yamagishi, Nicholas Evans, Tomi Kinnunen, Nam Soo Kim, Jee-weon Jung
-  *InterSpeech 2023* 
+  *Interspeech 2023*  
   [Paper](https://arxiv.org/abs/2305.19051){: .btn}
 
 - **Can spoofing countermeasure and speaker verification systems be jointly optimised?**  
   Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
-  *IEEE ICASSP 2023*
+  *IEEE ICASSP 2023*  
   [Paper](https://ieeexplore.ieee.org/abstract/document/10095068){: .btn}
   [Code](https://github.com/eurecom-asp/sasv-joint-optimisation){: .btn}
 
