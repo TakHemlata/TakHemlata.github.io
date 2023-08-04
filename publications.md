@@ -33,8 +33,8 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   [Paper](https://arxiv.org/abs/2305.19051){: .btn}
 
 - **Can spoofing countermeasure and speaker verification systems be jointly optimised?**  
-   Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans
-  *IEEE ICASSP 2023*  
+  Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans
+  *IEEE ICASSP 2023* 
   [Paper](https://ieeexplore.ieee.org/abstract/document/10095068){: .btn}
   [Code](https://github.com/eurecom-asp/sasv-joint-optimisation){: .btn} 
 
