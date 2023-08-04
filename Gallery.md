@@ -1,3 +1,3 @@
 <section id="Gallery">
-  <img src="/assets/Lab_img.jpg" alt="Audio group" width="400" height="300">
+  ![Crepe]({{ '/assets/Lab_img.jpg' | relative_url }})
 </section>
