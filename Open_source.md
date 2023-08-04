@@ -1,6 +1,5 @@
-<section id="portfolio">
-  <h2>Portfolio</h2>
-  <h3>Open Source Projects</h3>
+<section id="Open Source Projects">
+  <h2>Open Source Projects</h2>
   <ul>
     <li><a href="https://github.com/eurecom-asp/rawnet2-antispoofing">Project 1</a>: End-to-end anti-spoofing with RawNet2.</li>
     <li><a href="https://github.com/eurecom-asp/RawGAT-ST-antispoofing">Project 2</a>: End-to-end Spectro-Temporal Graph Attention Networks.</li>
