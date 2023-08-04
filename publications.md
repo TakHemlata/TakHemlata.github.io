@@ -25,7 +25,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   Michele Panariello, Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
   *InterSpeech 2023*  
   [Paper](https://arxiv.org/abs/2306.07655){: .btn}
-  [Code](github.com/eurecom-asp/malafide){: .btn} 
+  [Code](github.com/eurecom-asp/malafide){: .btn}
 
 - **Towards single integrated spoofing-aware speaker verification embeddings**  
   Sung Hwan Mun, Hye-jin Shim, **Hemlata Tak**, Xin Wang, Xuechen Liu, Md Sahidullah, Myeonghun Jeong, Min Hyun Han, Massimiliano Todisco,
@@ -34,21 +34,21 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   [Paper](https://arxiv.org/abs/2305.19051){: .btn}
 
 - **Can spoofing countermeasure and speaker verification systems be jointly optimised?**  
-  Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans
-  *IEEE ICASSP 2023* 
+  Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
+  *IEEE ICASSP 2023*
   [Paper](https://ieeexplore.ieee.org/abstract/document/10095068){: .btn}
-  [Code](https://github.com/eurecom-asp/sasv-joint-optimisation){: .btn} 
+  [Code](https://github.com/eurecom-asp/sasv-joint-optimisation){: .btn}
 
 **2022**
 - **On the potential of jointly-optimised solutions to spoofing attack detection and automatic speaker verification**  
   Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans
-  *ISCA IberSPEECH 2022*  
+  *ISCA IberSPEECH 2022*   
   [Paper](https://www.isca-speech.org/archive/iberspeech_2022/ge22_iberspeech.html){: .btn}
   [Code](https://github.com/eurecom-asp/sasv-joint-optimisation){: .btn}
 
 - **SASV 2022: The First Spoofing-Aware Speaker Verification Challenge**  
   Jee-weon Jung, **Hemlata Tak**, Hye-jin Shim, Hee-Soo Heo, Bong-Jin Lee, Soo-Whan Chung, Ha-Jin Yu, Nicholas Evans, Tomi Kinnunen
-  *INTERSPEECH 2022*  
+  *Interspeech 2022*  
   [Paper](https://www.isca-speech.org/archive/interspeech_2022/jung22c_interspeech.html){: .btn}
   [Code](https://sasv-challenge.github.io){: .btn}
 
@@ -61,7 +61,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 - **Baseline systems for the first spoofing-aware speaker verification challenge: score and embedding fusion**  
   Hye-jin Shim, **Hemlata Tak**, Xuechen Liu, Hee-Soo Heo, Jee-weon Jung, Joon Son Chung, Soo-Whan Chung, Ha-Jin Yu, Bong-Jin Lee,
   Massimiliano Todisco, Héctor Delgado, Kong Aik Lee, Md Sahidullah, Tomi Kinnunen, Nicholas Evans  
-  *The Speaker and Language Recognition Workshop (Odyssey 2022)*
+  *The Speaker and Language Recognition Workshop (Odyssey 2022)* 
   [Paper](https://www.isca-speech.org/archive/odyssey_2022/shim22_odyssey.html){: .btn}
   
 - **Rawboost: A raw data boosting and augmentation method applied to automatic speaker verification anti-spoofing**  
