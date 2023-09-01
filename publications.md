@@ -17,10 +17,10 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 **Interspeech 2023 Tutorial**
 
--**Advances in Audio Anti-spoofing and Deepfake Detection using Graph Neural Networks and Self-supervised Learning**
- Jee-weon Jung, Hye-jin Shim, **Hemlata Tak**, Xin Wang
- [Slides & code](https://github.com/Jungjee/INTERSPEECH2023_T6/tree/main)
-
+- **Advances in Audio Anti-spoofing and Deepfake Detection using Graph Neural Networks and Self-supervised Learning**  
+  Jee-weon Jung, Hye-jin Shim, **Hemlata Tak**, Xin Wang
+  [Slides & code](https://github.com/Jungjee/INTERSPEECH2023_T6/tree/main)
+ 
 **Publications**
 
 - **t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators**  
