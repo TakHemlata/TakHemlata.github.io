@@ -19,7 +19,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 - **t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators**  
   Tomi H. Kinnunen, Kong Aik Lee, **Hemlata Tak**, Nicholas Evans, Andreas Nautsch  
-  *Under review in IEEE transactions on pattern analysis and machine intelligence (TPAMI) 2023*
+  *Accepted in IEEE transactions on pattern analysis and machine intelligence (TPAMI) 2023*
 
 - **Malafide: a novel adversarial convolutive noise attack against deepfake and spoofing detection systems**  
   Michele Panariello, Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
