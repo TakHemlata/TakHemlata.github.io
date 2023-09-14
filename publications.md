@@ -25,7 +25,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 - **t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators**  
   Tomi H. Kinnunen, Kong Aik Lee, **Hemlata Tak**, Nicholas Evans, Andreas Nautsch  
-  *Accepted in IEEE transactions on pattern analysis and machine intelligence (TPAMI) 2023*
+  *IEEE transactions on pattern analysis and machine intelligence (TPAMI) 2023*
   [Paper](https://ieeexplore.ieee.org/document/10246406)
 
 **Conference publications**
