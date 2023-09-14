@@ -21,12 +21,19 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   Jee-weon Jung, Hye-jin Shim, **Hemlata Tak**, Xin Wang
   [Slides & code](https://github.com/Jungjee/INTERSPEECH2023_T6/tree/main){: .btn}
  
-**Publications**
+**Journal**
 
 - **t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators**  
   Tomi H. Kinnunen, Kong Aik Lee, **Hemlata Tak**, Nicholas Evans, Andreas Nautsch  
   *Accepted in IEEE transactions on pattern analysis and machine intelligence (TPAMI) 2023*
+  [Paper](https://ieeexplore.ieee.org/document/10246406)
 
+**Conference publications**
+
+-**On the generalization of semi-supervised speaker recognition in domain mismatch scenarios**
+ **Hemlata Tak**, Omid Sadjadi, Daniel Garcia-Romero
+ *Submitted in ICASSP 2024. (Work done during Internship at Amazon USA)*
+ 
 - **Malafide: a novel adversarial convolutive noise attack against deepfake and spoofing detection systems**  
   Michele Panariello, Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
   *Interspeech 2023*  
