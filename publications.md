@@ -20,15 +20,15 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 - **Advances in Audio Anti-spoofing and Deepfake Detection using Graph Neural Networks and Self-supervised Learning**  
   Jee-weon Jung, Hye-jin Shim, **Hemlata Tak**, Xin Wang
   [Slides & code](https://github.com/Jungjee/INTERSPEECH2023_T6/tree/main){: .btn}
- 
+  
 **Journal**
 
 - **t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators**   
   Tomi H. Kinnunen, Kong Aik Lee, **Hemlata Tak**, Nicholas Evans, Andreas Nautsch   
   *IEEE transactions on pattern analysis and machine intelligence (TPAMI) 2023*  
-  [Paper](https://ieeexplore.ieee.org/document/10246406)
-  [Code](https://github.com/TakHemlata/T-EER)
-  [Python notebook](https://colab.research.google.com/drive/1ga7eiKFP11wOFMuZjThLJlkBcwEG6_4m?usp=sharing)
+  [Paper](https://ieeexplore.ieee.org/document/10246406){: .btn}
+  [Code](https://github.com/TakHemlata/T-EER){: .btn}
+  [Python notebook](https://colab.research.google.com/drive/1ga7eiKFP11wOFMuZjThLJlkBcwEG6_4m?usp=sharing){: .btn}
 
 **Conference publications**
 
