@@ -27,7 +27,8 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   Tomi H. Kinnunen, Kong Aik Lee, **Hemlata Tak**, Nicholas Evans, Andreas Nautsch  
   *IEEE transactions on pattern analysis and machine intelligence (TPAMI) 2023*
   [Paper](https://ieeexplore.ieee.org/document/10246406)
-  [Code](https://colab.research.google.com/drive/1ga7eiKFP11wOFMuZjThLJlkBcwEG6_4m?usp=sharing)
+  [Code](https://github.com/TakHemlata/T-EER)
+  [Python notebook](https://colab.research.google.com/drive/1ga7eiKFP11wOFMuZjThLJlkBcwEG6_4m?usp=sharing)
 
 **Conference publications**
 
