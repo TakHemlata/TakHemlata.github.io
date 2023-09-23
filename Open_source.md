@@ -1,7 +1,7 @@
 <section id="Open Source Projects">
   <h2>Open Source Projects</h2>
   <ul>
-    <li><a href="https://github.com/eurecom-asp/rawnet2-antispoofing">Project 1</a>: RawNet2: End-to-end anti-spoofing with RawNet2.</li>
+    <li><a href="https://github.com/eurecom-asp/rawnet2-antispoofing">Project 1</a>: RawNet2: End-to-end anti-spoofing.</li>
     <li><a href="https://github.com/eurecom-asp/RawGAT-ST-antispoofing">Project 2</a>: RawNet2: End-to-end Spectro-Temporal Graph Attention Networks.</li>
     <li><a href="https://github.com/TakHemlata/SSL_Anti-spoofing">Project 3</a>: AASIST-SSL: Audio spoofing and deepfake detection using self-supervised learning and data augmentation.</li>
      <li><a href="https://github.com/TakHemlata/T-EER">Project 4</a>: t-EER: Parameter-Free Tandem Evaluation Metric of Countermeasures and Biometric Comparators.</li>
