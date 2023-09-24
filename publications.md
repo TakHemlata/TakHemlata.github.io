@@ -18,7 +18,8 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 **Interspeech 2023 Tutorial**
 
 - **Advances in Audio Anti-spoofing and Deepfake Detection using Graph Neural Networks and Self-supervised Learning**  
-  Jee-weon Jung, Hye-jin Shim, **Hemlata Tak**, Xin Wang
+  Jee-weon Jung, Hye-jin Shim, **Hemlata Tak**, Xin Wang  
+  *Interspeech 2023*  
   [Slides & code](https://github.com/Jungjee/INTERSPEECH2023_T6/tree/main){: .btn}
   
 **Journal**
@@ -32,8 +33,8 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 **Conference publications**
 
-- **On the generalization of semi-supervised speaker recognition in domain mismatch scenarios** 
-  **Hemlata Tak**, Omid Sadjadi, Daniel Garcia-Romero
+- **On the generalization of semi-supervised speaker recognition in domain mismatch scenarios**  
+  **Hemlata Tak**, Omid Sadjadi, Daniel Garcia-Romero  
   *Submitted in ICASSP 2024. (Work done during Internship at Amazon USA)*
     
 - **Malafide: a novel adversarial convolutive noise attack against deepfake and spoofing detection systems**  
