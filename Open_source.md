@@ -15,7 +15,7 @@ Spoofing Attack Detection and Automatic Speaker Verification.</li>
   <ul>
 <li><a href="https://github.com/eurecom-asp/rawnet2-antispoofing">Project 1</a>: This repository contains our implementation of the paper accepted to ICASSP 2021, "End-to-end anti-spoofing with RawNet2". This work demonstrates the effectivness of end-to-end approaches that utilise automatic feature learning to improve performance, both for seen spoofing attack types as well as for worst-case (A17) unseen attack.</li>
 
-![RawNet2](https://github.com/TakHemlata/TakHemlata.github.io/assets/44014715/526466e9-34e8-4a49-a671-e5cc3a10716a)
+ <img src="https://github.com/TakHemlata/TakHemlata.github.io/assets/44014715/526466e9-34e8-4a49-a671-e5cc3a10716a" alt="Photo" >
 
 <li><a href="https://github.com/eurecom-asp/RawGAT-ST-antispoofing">Project 2</a>: This repository contains our implementation of the paper published in the ASVspoof 2021 satellite workshop, "End-to-End Spectro-Temporal Graph Attention Networks for Speaker Verification Anti-Spoofing and Speech Deepfake Detection". This work demonstrates the effectivness of end-to-end spectro-temporal graph attention network (GAT) which learns the relationship between cues spanning different sub-bands and temporal intervals for anti-spoofing and speech deepfake detection.</li>
 
