@@ -47,6 +47,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   Sung Hwan Mun, Hye-jin Shim, **Hemlata Tak**, Xin Wang, Xuechen Liu, Md Sahidullah, Myeonghun Jeong, Min Hyun Han, Massimiliano Todisco,Kong Aik Lee, Junichi Yamagishi, Nicholas Evans, Tomi Kinnunen, Nam Soo Kim, Jee-weon Jung  
   *Interspeech 2023*  
   [Paper](https://arxiv.org/abs/2305.19051){: .btn}
+  [Code](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline){: .btn}
 
 - **Can spoofing countermeasure and speaker verification systems be jointly optimised?**  
   Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
