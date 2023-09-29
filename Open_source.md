@@ -6,8 +6,8 @@
     <li><a href="https://github.com/TakHemlata/SSL_Anti-spoofing">Project 3</a> - SSL-RawBoost: Audio spoofing and deepfake detection using self-supervised learning and data augmentation.</li>
      <li><a href="https://github.com/TakHemlata/T-EER">Project 4</a> - t-EER: Parameter-Free Tandem Evaluation Metric of Countermeasures and Biometric Comparators.</li>
     <li><a href="https://github.com/TakHemlata/RawBoost-antispoofing">Project 5</a> - RawBoost: Data boosting and augmentation technique for automatic speaker verification and audio deepfake detection.</li>
-    <li><a href="https://github.com/eurecom-asp/sasv-joint-optimisation">Project 6</a>: Jointly-Optimised Solutions to
-Spoofing Attack Detection and Automatic Speaker Verification.</li>
+    <li><a href="https://github.com/eurecom-asp/sasv-joint-optimisation">Project 6</a>: Jointly-optimised and integrated solutions to
+spoofing attack detection and automatic speaker verification.</li>
   </ul>
 
 
@@ -34,5 +34,10 @@ Spoofing Attack Detection and Automatic Speaker Verification.</li>
 
 <img src="https://github.com/TakHemlata/TakHemlata.github.io/assets/44014715/79ba9031-6521-4ec0-9f70-3a300f4bb507" alt="Photo">
 
+<li><a href="https://github.com/eurecom-asp/sasv-joint-optimisation">Project 6</a> - Jointly-optimised and integrated solutions for SASV: This project aims to establish the potential and determine whether spoofing countermeasures (CMs) and automatic
+speaker verification (ASV) systems can be jointly optimised. Jointly-optimised or integrated 
+solutions have the potential to better exploit the synergy between spoofing CMs and ASV subsystems so that they function cooperatively as a more reliable solution to spoofing aware speaker verification (SASV). </li>  
+
+<img src="https://github.com/TakHemlata/TakHemlata.github.io/assets/44014715/752202b1-1706-4365-8d08-52dd885614ff" alt="Photo">
 </ul>
 </section>
