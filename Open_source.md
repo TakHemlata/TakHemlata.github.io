@@ -3,7 +3,7 @@
   <ul>
     <li><a href="https://github.com/eurecom-asp/rawnet2-antispoofing">Project 1</a> - RawNet2: End-to-end anti-spoofing.</li>
     <li><a href="https://github.com/eurecom-asp/RawGAT-ST-antispoofing">Project 2</a> - RawGAT-ST: End-to-end Spectro-Temporal Graph Attention Networks.</li>
-    <li><a href="https://github.com/TakHemlata/SSL_Anti-spoofing">Project 3</a> - SSL-RawBoost: Audio spoofing and deepfake detection using self-supervised learning and data augmentation.</li>
+    <li><a href="https://github.com/TakHemlata/SSL_Anti-spoofing">Project 3</a> - SSL-AASIST: Audio spoofing and deepfake detection using self-supervised learning and data augmentation.</li>
      <li><a href="https://github.com/TakHemlata/T-EER">Project 4</a> - t-EER: Parameter-Free Tandem Evaluation Metric of Countermeasures and Biometric Comparators.</li>
     <li><a href="https://github.com/TakHemlata/RawBoost-antispoofing">Project 5</a> - RawBoost: Data boosting and augmentation technique for automatic speaker verification and audio deepfake detection.</li>
     <li><a href="https://github.com/eurecom-asp/sasv-joint-optimisation">Project 6</a>: Jointly-optimised and integrated solutions to
@@ -22,7 +22,7 @@ spoofing attack detection and automatic speaker verification.</li>
 <img src="https://github.com/TakHemlata/TakHemlata.github.io/assets/44014715/60946b3c-d863-4f89-bfc0-6e61cb8566ca" alt="Photo">
 
 
-<li><a href="https://github.com/TakHemlata/SSL_Anti-spoofing">Project 3</a> - SSL-RawBoost: This repository contains our implementation of the paper published in the Speaker Odyssey 2022, "Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation". This work produced state-of-the-art result on more challenging ASVspoof 2021 LA and DF database.</li>
+<li><a href="https://github.com/TakHemlata/SSL_Anti-spoofing">Project 3</a> - SSL-AASIST: This repository contains our implementation of the paper published in the Speaker Odyssey 2022 conference, "Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and Rawboost data augmentation". Experiments show that the use of efficient "RawBoost" data augmentation with a "SSL" wav2vec 2.0 front-end and graph neural network (GNN) based AASIST back-end brings substantial improvements in performance showing that a well-trained, fine-tuned front-end, even when trained initially using massive quantities of only bona fide utterances, can improve generalisation. This work produced state-of-the-art results on more challenging ASVspoof 2021 LA and DF tasks.</li>
 
 <img src="https://github.com/TakHemlata/TakHemlata.github.io/assets/44014715/9dcd0e12-340c-417b-848e-152c0212b8ce" alt="Photo">
 
