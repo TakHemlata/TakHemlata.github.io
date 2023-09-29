@@ -38,6 +38,9 @@ spoofing attack detection and automatic speaker verification.</li>
 speaker verification (ASV) systems can be jointly optimised. Jointly-optimised or integrated 
 solutions have the potential to better exploit the synergy between spoofing CMs and ASV subsystems so that they function cooperatively as a more reliable solution to spoofing aware speaker verification (SASV). </li>  
 
+<p align="center">
 <img src="https://github.com/TakHemlata/TakHemlata.github.io/assets/44014715/752202b1-1706-4365-8d08-52dd885614ff" alt="Photo" width="400" height="400">
+</p>
+
 </ul>
 </section>
