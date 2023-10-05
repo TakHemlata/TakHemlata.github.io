@@ -2,6 +2,11 @@
   <h2>EURECOM</h2>
     <img src="/assets/img/Lab_img.jpg" alt="Photo" width="400" height="300">
   <p>Audio group at EURECOM</p>
+
+ <h2>PhD Defense</h2>
+    <img src="/assets/img/PhD_Defense_Pic.jpg" alt="Photo" width="400" height="300">
+  <p>PhD Defense Sorbonne University & EURECOM </p>
+  
   <h2>ICASSP 2023</h2>
     <img src="/assets/img/ICASSP_23_Pic.jpg" alt="Photo" width="400" height="300">
   <p>ASVspoof group at ICASSP 2023 Rhodes, Greece </p>
