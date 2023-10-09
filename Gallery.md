@@ -11,6 +11,9 @@
     <img src="/assets/img/ICASSP_23_Pic.jpg" alt="Photo" width="400" height="300">
   <p>ASVspoof group at ICASSP 2023 Rhodes, Greece </p>
 <h2>Interspeech 2023 </h2>
+ <img src="/assets/img/Interspeech_tutorial.JPG" alt="Photo" width="400" height="300">
+  <p>Tutorial on Anti-spoofing at Interspeech 2023 Ireland, Dublin </p>
+
     <img src="/assets/img/Interspeech_2023_Pic.jpg" alt="Photo" width="400" height="300">
   <p>ASVspoof group at Interspeech 2023 Ireland, Dublin </p>
 </section>
