@@ -59,7 +59,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 - **On the potential of jointly-optimised solutions to spoofing attack detection and automatic speaker verification**  
   Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
-  *ISCA IberSPEECH 2022*  
+  *ISCA IberSPEECH 2022 (Best paper award)*  
   [Paper](https://www.isca-speech.org/archive/iberspeech_2022/ge22_iberspeech.html){: .btn}
   [Code](https://github.com/eurecom-asp/sasv-joint-optimisation){: .btn}
 
