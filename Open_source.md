@@ -1,4 +1,4 @@
-<section id="Open Source Projects">
+<section id="Open Source Contributions">
   <h2>Open Source Projects</h2>
   <ul>
     <li><a href="https://github.com/eurecom-asp/rawnet2-antispoofing">Project 1</a> - RawNet2: End-to-end anti-spoofing.</li>
