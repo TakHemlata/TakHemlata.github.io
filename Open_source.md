@@ -1,5 +1,5 @@
 <section id="Open Source Contributions">
-  <h2>Open Source Projects</h2>
+  <h2>Open Source Contributions</h2>
   <ul>
     <li><a href="https://github.com/eurecom-asp/rawnet2-antispoofing">Project 1</a> - RawNet2: End-to-end anti-spoofing.</li>
     <li><a href="https://github.com/eurecom-asp/RawGAT-ST-antispoofing">Project 2</a> - RawGAT-ST: End-to-end Spectro-Temporal Graph Attention Networks.</li>
