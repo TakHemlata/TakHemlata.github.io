@@ -32,10 +32,6 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   [Python notebook](https://colab.research.google.com/drive/1ga7eiKFP11wOFMuZjThLJlkBcwEG6_4m?usp=sharing){: .btn}
 
 **Conference publications**
-
-- **On the generalization of semi-supervised speaker recognition in domain mismatch scenarios**  
-  **Hemlata Tak**, Omid Sadjadi, Daniel Garcia-Romero  
-  *Submitted in ICASSP 2024. (Work done during Internship at Amazon USA)*
     
 - **Malafide: a novel adversarial convolutive noise attack against deepfake and spoofing detection systems**  
   Michele Panariello, Wanying Ge, **Hemlata Tak**, Massimiliano Todisco, Nicholas Evans  
