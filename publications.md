@@ -19,6 +19,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 - **From Artefacts to Insights:A Topical Analysis of Voice Biometric Security**  
   **Hemlata Tak**, Massimiliano Todisco
+
   *Joint Workshop of VoicePersonae and ASVspoof 2023, NII, Tokyo, Japan*  
   [Slides](https://drive.google.com/file/d/1XAX2vN-ghHM9KMhXjctYe0GT0uXPON8j/view?usp=sharing){: .btn}
   
