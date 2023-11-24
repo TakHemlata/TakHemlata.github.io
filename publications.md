@@ -15,6 +15,13 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   [Thesis](https://www.eurecom.fr/publication/7273){: .btn}
   [Slides](https://drive.google.com/file/d/17qnfPJ7ESdXza0dYzG6h8Cbv3RmYyLnI/view?usp=sharing){: .btn}
 
+**Invited research talk**
+
+- **From Artefacts to Insights:A Topical Analysis of Voice Biometric Security**  
+  **Hemlata Tak**, Massimiliano Todisco
+  *Joint Workshop of VoicePersonae and ASVspoof 2023, NII, Tokyo, Japan*  
+  [Slides](https://drive.google.com/file/d/1XAX2vN-ghHM9KMhXjctYe0GT0uXPON8j/view?usp=sharing){: .btn}
+  
 **Interspeech 2023 Tutorial**
 
 - **Advances in Audio Anti-spoofing and Deepfake Detection using Graph Neural Networks and Self-supervised Learning**  
