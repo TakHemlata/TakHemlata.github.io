@@ -16,4 +16,7 @@
   <h2>Interspeech 2023 </h2>
 <img src="/assets/img/Interspeech_2023_Pic.jpg" alt="Photo" width="400" height="300">
   <p>ASVspoof group at Interspeech 2023 Ireland, Dublin </p>
+  <h2> Joint Workshop of VoicePersonae and ASVspoof 2023 </h2>
+<img src="/assets/img/IMG_5200.jpg" alt="Photo" width="400" height="300">
+  <p>ASVspoof group at Joint Workshop of VoicePersonae and ASVspoof, Tokyo, Japan </p>
 </section>
