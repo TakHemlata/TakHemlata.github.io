@@ -19,6 +19,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 - **To what extent can ASV systems naturally defend against spoofing attacks?**  
   Jee-weon Jung, Xin Wang, Nicholas Evans, Shinji Watanabe, Hye-jin Shim, **Hemlata Tak**, Sidhhant Arora, Junichi Yamagishi, Joon Son Chung
+
   *Interspeech 2024*
   [Paper](https://arxiv.org/pdf/2406.05339){: .btn}
   
