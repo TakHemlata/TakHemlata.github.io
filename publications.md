@@ -6,6 +6,23 @@ title: Publications
 Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
+**2024**
+
+- **Source Tracing of Audio Deepfake Systems**  
+  Nicholas Klein, Tianxiang Chen, **Hemlata Tak**, Ricardo Casal, Elie Khoury
+  *Interspeech 2024*
+
+- **Harder or Different? Understanding Generalization of Audio Deepfake Detection**  
+  Nicolas M Müller, Nicholas Evans, **Hemlata Tak**, Philip Sperl, Konstantin Böttinger
+  *Interspeech 2024*
+  [Paper](https://arxiv.org/pdf/2406.03512){: .btn}
+
+- **To what extent can ASV systems naturally defend against spoofing attacks?**  
+  Jee-weon Jung, Xin Wang, Nicholas Evans, Shinji Watanabe, Hye-jin Shim, **Hemlata Tak**, Sidhhant Arora, Junichi Yamagishi, Joon Son Chung
+  *Interspeech 2024*
+  [Paper](https://arxiv.org/pdf/2406.05339){: .btn}
+  
+
 **2023**
 
 **PhD Thesis**
