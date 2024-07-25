@@ -11,6 +11,8 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 - **Source Tracing of Audio Deepfake Systems**  
   Nicholas Klein, Tianxiang Chen, **Hemlata Tak**, Ricardo Casal, Elie Khoury
   *Interspeech 2024*
+  [Paper](https://arxiv.org/abs/2407.08016){: .btn}
+  [Protocol](https://zenodo.org/records/11593133){: .btn}
 
 - **Harder or Different? Understanding Generalization of Audio Deepfake Detection**  
   Nicolas M Müller, Nicholas Evans, **Hemlata Tak**, Philip Sperl, Konstantin Böttinger
