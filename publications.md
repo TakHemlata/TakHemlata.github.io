@@ -6,6 +6,12 @@ title: Publications
 Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
+**2025**
+
+- **Investigating Voiced and Unvoiced Regions of Speech for Audio Deepfake Detection**
+  Ganesh Sivaraman, **Hemlata Tak**, Elie Khoury
+  *IEEE ICASSP 2025*
+
 **2024**
 
 - **ASVspoof 5: Crowdsourced speech data, deepfakes, and adversarial attacks at scale**
@@ -14,6 +20,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   Tomi Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi  
   *ISCA Satellite ASVspoof 2024 workshop*
   [paper](https://arxiv.org/abs/2408.08739){: .btn}
+  [database](https://zenodo.org/records/14498691){: .btn}
 
 - **Source Tracing of Audio Deepfake Systems**  
   Nicholas Klein, Tianxiang Chen, **Hemlata Tak**, Ricardo Casal, Elie Khoury
