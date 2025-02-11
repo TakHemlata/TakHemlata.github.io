@@ -1,4 +1,8 @@
 <section id="gallery">
+  <h2>Pindrop</h2>
+    <img src="/assets/img/Award.JPG" alt="Photo" width="400" height="300">
+  <p>Rookie of the Year Award at Pindrop</p>
+  
   <h2>EURECOM</h2>
     <img src="/assets/img/Lab_img.jpg" alt="Photo" width="400" height="300">
   <p>Audio group at EURECOM</p>
