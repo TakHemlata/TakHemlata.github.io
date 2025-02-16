@@ -10,8 +10,9 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 - **ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**
 
   Xin Wang, Héctor Delgado, **Hemlata Tak**, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi     Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi, Myeonghun Jeong, Ge Zhu, Yongyi Zang, You Zhang, Soumi Maiti, Florian Lux, Nicolas Müller, Wangyou Zhang, Chengzhe Sun, Shuwei Hou, Siwei Lyu, Sébastien Le Maguer, Cheng Gong, Hanjie Guo, Liping Chen, Vishwanath Singh.
-  [paper](https://arxiv.org/abs/2502.08857){: .btn}
-  [database](https://zenodo.org/records/14498691){: .btn}
+
+  [paper](https://arxiv.org/abs/2502.08857)
+  [database](https://zenodo.org/records/14498691)
 
 
 - **Investigating Voiced and Unvoiced Regions of Speech for Audio Deepfake Detection**
