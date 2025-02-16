@@ -7,24 +7,20 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 <br />
 
 **2025**
-- **ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**
 
-  Xin Wang, Héctor Delgado, **Hemlata Tak**, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi     Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi, Myeonghun Jeong, Ge Zhu, Yongyi Zang, You Zhang, Soumi Maiti, Florian Lux, Nicolas Müller, Wangyou Zhang, Chengzhe Sun, Shuwei Hou, Siwei Lyu, Sébastien Le Maguer, Cheng Gong, Hanjie Guo, Liping Chen, Vishwanath Singh.
+- **ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech** 
+  Xin Wang, Héctor Delgado, **Hemlata Tak**, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi     Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi, Myeonghun Jeong, Ge Zhu, Yongyi Zang, You Zhang, Soumi Maiti, Florian Lux, Nicolas Müller, Wangyou Zhang, Chengzhe Sun, Shuwei Hou, Siwei Lyu, Sébastien Le Maguer, Cheng Gong, Hanjie Guo, Liping Chen, Vishwanath Singh
   [paper](https://arxiv.org/abs/2502.08857)
   [database](https://zenodo.org/records/14498691)
 
-
-- **Investigating Voiced and Unvoiced Regions of Speech for Audio Deepfake Detection**
-
+- **Investigating Voiced and Unvoiced Regions of Speech for Audio Deepfake Detection**  
   Ganesh Sivaraman, **Hemlata Tak**, Elie Khoury
   *IEEE ICASSP 2025*
 
 **2024**
-
-- **ASVspoof 5: Crowdsourced speech data, deepfakes, and adversarial attacks at scale**
-  
+- **ASVspoof 5: Crowdsourced speech data, deepfakes, and adversarial attacks at scale**  
   Xin Wang, Hector Delgado, **Hemlata Tak**, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah,
-  Tomi Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi  
+  Tomi Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi
   *ISCA Satellite ASVspoof 2024 workshop*
   [paper](https://arxiv.org/abs/2408.08739)
   [database](https://zenodo.org/records/14498691)
