@@ -10,7 +10,6 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 - **ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**
 
   Xin Wang, Héctor Delgado, **Hemlata Tak**, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi     Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi, Myeonghun Jeong, Ge Zhu, Yongyi Zang, You Zhang, Soumi Maiti, Florian Lux, Nicolas Müller, Wangyou Zhang, Chengzhe Sun, Shuwei Hou, Siwei Lyu, Sébastien Le Maguer, Cheng Gong, Hanjie Guo, Liping Chen, Vishwanath Singh.
-  
   [paper](https://arxiv.org/abs/2502.08857){: .btn}
   [database](https://zenodo.org/records/14498691){: .btn}
 
@@ -27,14 +26,12 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   Xin Wang, Hector Delgado, **Hemlata Tak**, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah,
   Tomi Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi  
   *ISCA Satellite ASVspoof 2024 workshop*
-
   [paper](https://arxiv.org/abs/2408.08739){: .btn}
   [database](https://zenodo.org/records/14498691){: .btn}
 
 - **Source Tracing of Audio Deepfake Systems**  
   Nicholas Klein, Tianxiang Chen, **Hemlata Tak**, Ricardo Casal, Elie Khoury
   *Interspeech 2024*
-
   [Paper](https://arxiv.org/abs/2407.08016){: .btn}
   [Protocol](https://zenodo.org/records/11593133){: .btn}
 
