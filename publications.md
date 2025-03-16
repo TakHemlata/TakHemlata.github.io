@@ -17,6 +17,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 - **Investigating Voiced and Unvoiced Regions of Speech for Audio Deepfake Detection**  
   Ganesh Sivaraman, **Hemlata Tak**, Elie Khoury
+  [paper](https://ieeexplore.ieee.org/document/10890861?denied=)
   *IEEE ICASSP 2025*
 
 **2024**
