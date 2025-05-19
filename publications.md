@@ -8,11 +8,11 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 **2025**
 
--**Open-set Source tracing of Audio deepfake detection**
+- **Open-set Source tracing of Audio deepfake detection**
 
-Nicholas Klein, **Hemlata Tak**, Elie Khoury
+  Nicholas Klein, **Hemlata Tak**, Elie Khoury
 
-Accepted in Interspeech 2025 source tracing special session
+  Accepted in Interspeech 2025 source tracing special session
 
 
 - **ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech** 
