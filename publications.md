@@ -14,6 +14,8 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   
   Accepted in Interspeech 2025 source tracing special session
 
+  [paper](https://arxiv.org/abs/2507.06470)
+
 
 - **ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech** 
 
