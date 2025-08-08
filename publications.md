@@ -8,11 +8,18 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 **2025**
 
+- **Pindrop it! Audio and Visual Deepfake Countermeasures for Robust Detection and Fine Grained-Localization**
+
+  Nicholas Klein, **Hemlata Tak**, James Fullwood, Krishna Regmi, Leonidas Spinoulas, Ganesh Sivaraman, Tianxiang Chen, Elie Khoury
+
+*Accepted in ACM International
+conference on Multimedia (ACM MM) 2025*
+
 - **Open-set Source tracing of Audio deepfake detection**
   
   Nicholas Klein, **Hemlata Tak**, Elie Khoury
   
-  Accepted in Interspeech 2025 source tracing special session
+  *Accepted in Interspeech 2025 source tracing special session*
 
   [paper](https://arxiv.org/abs/2507.06470)
 
@@ -21,7 +28,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
   Xin Wang, Héctor Delgado, **Hemlata Tak**, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi     Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi, Myeonghun Jeong, Ge Zhu, Yongyi Zang, You Zhang, Soumi Maiti, Florian Lux, Nicolas Müller, Wangyou Zhang, Chengzhe Sun, Shuwei Hou, Siwei Lyu, Sébastien Le Maguer, Cheng Gong, Hanjie Guo, Liping Chen, Vishwanath Singh
   
-  Accepted in CSL*
+  *Accepted in CSL*
   [paper](https://arxiv.org/abs/2502.08857)
   [database](https://zenodo.org/records/14498691)
 
