@@ -15,6 +15,8 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
    *Accepted in ACM International
 conference on Multimedia (ACM MM) 2025*
 
+[paper](https://arxiv.org/abs/2508.08141)
+
 - **Open-set Source tracing of Audio deepfake detection**
   
   Nicholas Klein, **Hemlata Tak**, Elie Khoury
