@@ -8,6 +8,12 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 
 **2025**
 
+- **Multiscale LSTMs with Micro Attention for Audio Temporal Deepfake Localization**
+
+  James Fullwood, **Hemlata Tak**, Ganesh Sivaraman, Elie Khoury
+
+  *Submitted in ICASSP 2026*
+
 - **Pindrop it! Audio and Visual Deepfake Countermeasures for Robust Detection and Fine Grained-Localization**
 
   Nicholas Klein, **Hemlata Tak**, James Fullwood, Krishna Regmi, Leonidas Spinoulas, Ganesh Sivaraman, Tianxiang Chen, Elie Khoury
