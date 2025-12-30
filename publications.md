@@ -9,6 +9,7 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 **2025**
 
 - **ASVspoof 5: Evaluation of Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**
+  
   Xin Wang, H´ector Delgado, Nicholas Evans, Xuechen Liu, Tomi Kinnunen, **Hemlata Tak**, Kong Aik Lee, Ivan Kukanov, Md Sahidullah, Massimiliano Todisco, Junichi Yamagishi
   
   *Submitted to IEEE TASLP*
