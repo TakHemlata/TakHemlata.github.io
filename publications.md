@@ -13,6 +13,8 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
   Xin Wang, H´ector Delgado, Nicholas Evans, Xuechen Liu, Tomi Kinnunen, **Hemlata Tak**, Kong Aik Lee, Ivan Kukanov, Md Sahidullah, Massimiliano Todisco, Junichi Yamagishi
   
   *Submitted to IEEE TASLP*
+  
+  [paper](https://arxiv.org/abs/2601.03944)
 
 - **Multiscale LSTMs with Micro Attention for Audio Temporal Deepfake Localization**
 
