@@ -33,3 +33,14 @@ img.avatar {
  width: 200px;
  height: 200px;
 }
+
+.avatar-container img {
+ width: 200px !important;
+ height: 200px !important;
+}
+.avatar-container {
+ width: 200px !important;
+ height: 200px !important;
+}
+
+
