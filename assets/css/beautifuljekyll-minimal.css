@@ -12,35 +12,17 @@ footer.footer-min {
   text-align: center;
 }
 
-/* Increase avatar size */
-.avatar-container img,
-.avatar-img,
-img.avatar {
- width: 200px; /* adjust: 160–240 */
- height: 200px;
- object-fit: cover;
+.navbar-custom .avatar-container {
+ width: 80px;
+ height: 80px;
 }
 
-/* Keep it circular if round-avatar is enabled */
-.avatar-container img,
-.avatar-img,
-img.avatar {
+.navbar-custom .avatar-container .avatar-img {
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
  border-radius: 50%;
 }
 
-/* If the container itself constrains the size */
-.avatar-container {
- width: 200px;
- height: 200px;
-}
-
-.avatar-container img {
- width: 200px !important;
- height: 200px !important;
-}
-.avatar-container {
- width: 200px !important;
- height: 200px !important;
-}
 
 
