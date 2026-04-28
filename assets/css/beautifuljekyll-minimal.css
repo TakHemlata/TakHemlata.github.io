@@ -27,3 +27,9 @@ img.avatar {
 img.avatar {
  border-radius: 50%;
 }
+
+/* If the container itself constrains the size */
+.avatar-container {
+ width: 200px;
+ height: 200px;
+}
