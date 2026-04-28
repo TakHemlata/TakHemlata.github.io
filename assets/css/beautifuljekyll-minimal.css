@@ -11,3 +11,19 @@ footer.footer-min {
   border-top: 1px solid #eeeeee;
   text-align: center;
 }
+
+/* Increase avatar size */
+.avatar-container img,
+.avatar-img,
+img.avatar {
+ width: 200px; /* adjust: 160–240 */
+ height: 200px;
+ object-fit: cover;
+}
+
+/* Keep it circular if round-avatar is enabled */
+.avatar-container img,
+.avatar-img,
+img.avatar {
+ border-radius: 50%;
+}
