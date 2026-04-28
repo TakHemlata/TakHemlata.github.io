@@ -25,5 +25,10 @@ footer.footer-min {
  display: block;
 }
 
+.navbar-custom {
+ padding-top: 6px;
+ padding-bottom: 6px;
+}
+
 
 
