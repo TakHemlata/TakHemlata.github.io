@@ -9,9 +9,9 @@ Checkout my <a href="https://scholar.google.co.in/citations?user=u2DMQxsAAAAJ&hl
 **2026**
 - **The Effect of Telephony Transmission on Source Tracing of Audio Deepfakes**
 
-Nicolas Klein, **Hemlata Tak**, Nikolay Gaubitch, David Looney, Tianxiang Chen, Elie Khoury
+  Nicolas Klein, **Hemlata Tak**, Nikolay Gaubitch, David Looney, Tianxiang Chen, Elie Khoury
 
- *Accepted in Speaker Odyssey 2026*
+  *Accepted in Speaker Odyssey 2026*
 
 - **ASVspoof 5: Evaluation of Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**
   
